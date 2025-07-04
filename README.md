@@ -38,5 +38,5 @@ To create an interactive dashboard that enables stakeholders to:
 
   
 ## 📸 Screenshots
-https://github.com/shivani123456781/HR_Analytics/blob/main/HR%20Analytics.PNG
+https://github.com/shivani123456781/Netflix_Analytics/blob/main/Netflix.PNG
 
